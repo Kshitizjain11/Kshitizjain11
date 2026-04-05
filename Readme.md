@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Agentic+AI+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Agentic+AI+Developer;Open+Source+Enthusiast)](https://github.com/Kshitizjain11)
 
 </div>
 
@@ -61,7 +61,7 @@ const kshitiz = {
 
 ## 🚀 Featured Projects
  
-### 🐒 MONKY — Real-time AI Collaborative Coding Assistant
+### MONKY — Real-time AI Collaborative Coding Assistant
 > Next.js · WebSockets · WebRTC · Judge0 · LLM · GSAP &nbsp;|&nbsp; [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kshitizjain11/monky)
  
 **The all-in-one platform where you code, debug, visualize, and learn — together.**
@@ -75,7 +75,7 @@ const kshitiz = {
  
 ---
  
-### 🎨 SPYLT.com — GSAP Frontend Animated Clone
+### SPYLT.com — GSAP Frontend Animated Clone
 > React · GSAP · ScrollTrigger · SVG Animation &nbsp;|&nbsp; [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kshitizjain11/Spylt-Clone)
  
 **A pixel-perfect animated clone of SPYLT.com showcasing advanced GSAP techniques.**
