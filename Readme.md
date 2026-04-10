@@ -70,9 +70,6 @@ const kshitiz = {
 - 🤖 **AI Code Analysis** — Analyzes code as you type, predicts bugs before execution with structured AI suggestions in real time
 - ⚡ **Secure Code Execution** — Runs code safely via **Judge0** sandbox
 - 🔗 **Live Collaboration** — Multi-user shared editor powered by **WebSockets + WebRTC** for real-time co-debugging
-- 🗺️ **Visual Flow Diagrams** — Auto-generates logic flowcharts from your code
-- ⌨️ **Typing Trainer** — MonkeyType-style trainer but for code — improve your coding speed & muscle memory
-- 🎮 **Mini Games & Algo Visualizer** — Bubble sort, quicksort visualizations (VisualAlgo-style) + **Flexbox Master** game for learning CSS flexbox interactively
  
 ---
  
@@ -84,7 +81,6 @@ const kshitiz = {
 - 🖱️ **Scroll-triggered animations** — Smooth reveal sequences tied to scroll position using **ScrollTrigger**
 - 🔄 **Page transitions** — Fluid route transitions with staggered enter/exit animations
 - ✏️ **SVG path animations** — Hand-crafted SVG draw-on effects and morphing animations
-- 🎯 Built to master production-grade animation workflows used in real agency/studio sites
  
 ---
 
@@ -114,6 +110,10 @@ const kshitiz = {
 [![GitHub](https://img.shields.io/badge/GitHub-kshitizjain11-181717?style=for-the-badge&logo=github)](https://github.com/kshitizjain11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kshitiz-jain-)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:kshitizjain2020@email.com)
+[![NPX](https://img.shields.io/badge/NPX-kshitiz-CA3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/kshitiz)
+
+<p><strong>CLI Card:</strong> <code>npx kshitiz</code></p>
+<p><strong>Prerequisite:</strong> Node.js &gt;= 18 (npm/npx installed)</p>
 
 </div>
 
